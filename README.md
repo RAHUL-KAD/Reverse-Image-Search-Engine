@@ -9,15 +9,17 @@ Reverse Image Search also known as Content based Image retrevial, This is the ap
 
 ## Table of Content
 1. [Motivation](#motivation)
-2. [Data](#data)
+2. [Dataset](#dataset)
 3. [Model Weights](#model-weights)
 4. [How to use it](#how-to-use-it)
 
 
 ## Motivation[](#motivation)
-Ever wondered how the [Google reverse image search](https://en.wikipedia.org/wiki/Google_Images#Search_by_Image_feature) works, which take in an image and returns you the most similar images in a fraction of a second?
+Ever wondered how the [Google reverse image search](https://en.wikipedia.org/wiki/Google_Images#Search_by_Image_feature) works, which take in an image and returns you the most similar images in a fraction of a second? 
 
-## Data[](#data)
+Having a large database of images with no available metadata is not an ideal starting point, searching through those images can be exhausting to solve that we can use Image search engine, which will iterate through all the images and find all the similar images.
+
+## Dataset[](#dataset)
 To build search engine we need massive amount of data to seach on. For this image search engine I used [Caltech101](https://data.caltech.edu/records/20086) dataset.
 
 This dataset contains 101 classes and there are about 40 to 800 images per category.
