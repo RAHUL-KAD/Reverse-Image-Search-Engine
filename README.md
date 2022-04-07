@@ -2,7 +2,7 @@
 
 
 # Reverse-Image-Search-Engine 
-**A picture is worth a thousand words**
+**A picture :framed_picture: is worth a thousand words**
 
 ## Introduction
 Reverse Image Search also known as Content based Image retrevial, This is the application of computer vision techniques to the image retrieval problem, that is, the problem of searching for images in large databases.
