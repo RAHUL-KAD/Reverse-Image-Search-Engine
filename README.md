@@ -52,7 +52,7 @@ This dataset contains 101 classes and there are about 40 to 800 images per categ
 - We will use this pickel file in **model.py**
 
 ### Step 4: Install Model weights
-- Install both **Resnet finetuned model** and **feature list** from model weights.
+- Install both [**Resnet finetuned model**](https://drive.google.com/file/d/1BQrPqh-CYey4vU0x3H4Ok5EX5WE-JV_K/view?usp=sharing) and [**feature list**](https://drive.google.com/file/d/1BR2x6kPLSRgrh1NMrd1wd7mJOccbqKmh/view?usp=sharing) from model weights.
 - Add these weights and previously downloded pickle model in **model.py** file.
 
 ### Step 5: Search for the image
