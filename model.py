@@ -26,7 +26,6 @@ image_to_test = '/home/rahul/Desktop/ml_project/image_search/images/test1.png'
 
 filenames = pickle.load(open('/home/rahul/Desktop/ml_project/image_search/Models/filenames-caltech101.pickle', 'rb'))
 feature_list = pickle.load(open('/home/rahul/Desktop/ml_project/image_search/Models/features-caltech101-resnet-finetuned.pickle', 'rb'))
-class_ids = pickle.load(open('/home/rahul/Desktop/ml_project/image_search/Models/class_ids-caltech101.pickle', 'rb'))
 finetuned_resnet_model = '/home/rahul/Desktop/ml_project/image_search/Models/resnet_model-finetuned.h5'
 
 ResNet50_model = ResNet50(weights='imagenet',
