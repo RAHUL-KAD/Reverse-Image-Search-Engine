@@ -15,7 +15,7 @@ Reverse Image Search also known as Content based Image retrevial, This is the ap
 
 
 ## Motivation[](#motivation)
-
+Ever wondered how the [Google reverse image search](https://en.wikipedia.org/wiki/Google_Images#Search_by_Image_feature) works, which take in an image and returns you the most similar images in a fraction of a second?
 
 ## Data[](#data)
 To build search engine we need massive amount of data to seach on. For this image search engine I used [Caltech101](https://data.caltech.edu/records/20086) dataset.
