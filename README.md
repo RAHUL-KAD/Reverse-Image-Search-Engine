@@ -64,5 +64,6 @@ This dataset contains 101 classes and there are about 40 to 800 images per categ
 
 
 ## 5. Credit
-[Deep learning based reverse image search for industrial applications](https://towardsdatascience.com/deep-learning-based-reverse-image-search-for-industrial-applications-33ba4b0d32c4)
-[Building a Reverse Image Search Engine: Understanding Embeddings](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/ch04.html)
+[1. Deep learning based reverse image search for industrial applications](https://towardsdatascience.com/deep-learning-based-reverse-image-search-for-industrial-applications-33ba4b0d32c4)
+
+[2. Building a Reverse Image Search Engine: Understanding Embeddings](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/ch04.html)
