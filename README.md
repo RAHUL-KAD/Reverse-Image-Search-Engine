@@ -1,4 +1,3 @@
-
 ![IMG_20190818_174223_8__1_-removebg-preview (1)](https://user-images.githubusercontent.com/63397654/162138000-2856940c-34da-407e-9563-62aa9bc1259c.png)
 
 
@@ -71,3 +70,4 @@ This dataset contains 101 classes and there are about 40 to 800 images per categ
 [1. Deep learning based reverse image search for industrial applications](https://towardsdatascience.com/deep-learning-based-reverse-image-search-for-industrial-applications-33ba4b0d32c4)
 
 [2. Building a Reverse Image Search Engine: Understanding Embeddings](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/ch04.html)
+
