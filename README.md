@@ -1,7 +1,11 @@
+
 ![IMG_20190818_174223_8__1_-removebg-preview (1)](https://user-images.githubusercontent.com/63397654/162138000-2856940c-34da-407e-9563-62aa9bc1259c.png)
 
 
 # Reverse Image Search :eyeglasses: Engine 
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frahul_jalindar)   ![APM](https://img.shields.io/apm/l/vim-mode) ![Build with](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whit)
+
 **A picture :framed_picture: is worth a thousand words**
 
 ## Introduction :pushpin:
