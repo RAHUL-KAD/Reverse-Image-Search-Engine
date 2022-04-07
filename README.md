@@ -35,4 +35,14 @@ This dataset contains 101 classes and there are about 40 to 800 images per categ
 
 
 ## :test_tube: How to use it[](#how-to-use-it) :microscope:
+### Step 1: Clone the repo
+For new updates you can switch to dev branch.
+
+### Step 2: Create Virtual Environment
+[How to create virtual environment](https://docs.python.org/3/library/venv.html)
+
+Install all the required libraries using **requirements.txt** file.
+
+### Step 4: Dataset download and extract filenames
+Download the dataset and add a absolute path in **dataset.py** file.
 
