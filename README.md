@@ -21,6 +21,7 @@ https://user-images.githubusercontent.com/63397654/163579675-fe1240b3-8893-4d2c-
 2. [Dataset](#dataset)
 3. [Model Weights](#model-weights)
 4. [How to use it](#how-to-use-it)
+5. [Credit](#credit)
 
 
 
